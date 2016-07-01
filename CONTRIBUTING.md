@@ -8,7 +8,7 @@ Here's what you need to know.
 
 2.  When working on an SDK, it's important that we are consistent from project to project, so we ask you to follow the coding guidelines below:
 
-    -   Windows [(Coding guidelines for C#)](https://msdn.microsoft.com/en-us/library/ff926074.aspx)
+    -   Windows [(Coding guidelines for C#)](https://msdn.microsoft.com/en-us/library/ff926074.aspx) -- also reference our [common Windows code](https://github.com/Microsoft/Cognitive-common-windows) for building samples
 
     -   Android [(Coding guidelines for
         Java)](<http://source.android.com/source/code-style.html>)
