@@ -1,4 +1,4 @@
-Contributing to Microsoft Cognitive Services Client Libraries
+Contributing to Microsoft Cognitive Services Client Libraries & Samples
 ===============================================
 So, you want to contribute on a client library or sample for one of the Microsoft Cognitive Services.
 Here's what you need to know.
