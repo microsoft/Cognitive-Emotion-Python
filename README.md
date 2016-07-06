@@ -2,7 +2,7 @@
 This [Jupyter Notebook](<http://jupyter.org/>) demonstrates how to use Python with the Microsoft Emotion API, an offering within [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services), formerly known as Project Oxford.
 * [Learn about the Emotion API](https://www.microsoft.com/cognitive-services/en-us/emotion-api)
 * [Read the documentation](https://www.microsoft.com/cognitive-services/en-us/emotion-api/documentation)
-* [Find more SDKs & Samples]()
+* [Find more SDKs & Samples](https://www.microsoft.com/cognitive-services/en-us/SDK-Sample?api=emotion)
 
 
 ## Contributing
